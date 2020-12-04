@@ -1,0 +1,2 @@
+# readline
+/opt/readline
